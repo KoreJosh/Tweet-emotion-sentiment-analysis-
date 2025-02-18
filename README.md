@@ -1,4 +1,4 @@
-![](tweet_emotion.ipynb)
+![](https://github.com/KoreJosh/Tweet-emotion-sentiment-analysis-/blob/main/Screenshot_20250218-111435_2.jpg)
 
 # Tweet-emotion-sentiment-analysis-
 
